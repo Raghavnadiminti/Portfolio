@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi there, I'm Raghavendra! 👋
 
-## Getting Started
+I am a **Computer Science** under graduate passionate about software development, problem-solving, and always eager to learn new technologies.I find it most rewarding to see interfaces come to life, powered by the backend code I've written .   I’ve built strong skills in backend development using FastAPI and Node.js, and I’m comfortable working with SQL, PostgreSQL, MongoDB, and different ORMs. I focus on writing efficient, scalable code and have hands-on experience with cloud setups, Linux, Nginx, socket programming, and shell scripting.
 
-First, run the development server:
+I’m a quick learner who can pick up any technology or framework as per the project’s needs. I enjoy solving real-world problems, building impactful systems, and growing through challenging work.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+If you’re looking for someone who can adapt fast, contribute effectively, and take ownership, I’d love to connect and discuss potential opportunities.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Welcome to my GitHub profile! 😊
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔧 Tech Stack
+Here are the technologies I work with:  
+- **Backend:** Node.js, Express.js, MongoDB, FastApi
+- **Frontend:** HTML, CSS, JavaScript, React.js, Nextjs
+- **Databases:** MySQL, MongoDB, postgresql
+- **DevOps:** Linux, AWS, Docker, ShellScripting, Nginx,jenkins
+- **Version Control:** Git, GitHub
+- **Tools:**  Postman, VS Code, VercelCli
+- **Frameworks and libraries:** Reactjs, Nextjs, Axios, Mongoose, Socket.io, Redux
+- **Languages:** python, java, c, c++, solidity
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## My Coding permance  
+ - **Leetcode** [Raghavendra90](https://leetcode.com/u/Raghavendra90/)  
+ - **codechef** [raghavendra91](https://www.codechef.com/users/raghavendra91) 
+ - **GeeksForGeeks** [raghavnaqbkf](https://www.geeksforgeeks.org/user/raghavnaqbkf/)  
+ 
+## 🚀 My GitHub Stats
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavnadiminti&theme=github" alt="Raghavnadiminti" />
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghavnadiminti&theme=github" alt="Raghavnadiminti" />
+</p>
+
+
+## 🌱 What I’m currently learning:
+- Diving deep into transformers and  neural networks and GenAi
+- Developing complex backend applications and exploring system design
+
+## 📫 How to reach me:
+- Email: raghavnadiminti@gmail.com
+- LinkedIn: [Raghavendra](https://www.linkedin.com/in/raghavendranadiminti/)
+- GitHub: [Raghavnadiminti](https://github.com/Raghavnadiminti)
+
+
