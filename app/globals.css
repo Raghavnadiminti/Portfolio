@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0c0e14;
+  --foreground: #f1f5f9;
+  --terminal-green: #22c55e;
+  --terminal-cyan: #38bdf8;
+  --terminal-amber: #f59e0b;
+  --terminal-border: #1e293b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
+  background-color: #0c0e14;
+}
+
+body {
+  background-color: #0c0e14;
+  color: #f1f5f9;
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  selection-background-color: #059669;
+  selection-color: #ffffff;
+}
+
+::selection {
+  background: #059669;
+  color: #ffffff;
+}
+
+/* Linux subtle custom scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #090b10;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Code wrapping */
+pre, code {
+  font-family: var(--font-mono), monospace;
+  word-break: break-word;
+  white-space: pre-wrap;
+}
+
+/* Reduced motion preference support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
